@@ -1,0 +1,11 @@
+c:\users\100\documents\visual studio 2010\Projects\Kladionica\Kladionica\bin\Debug\Kladionica_DB.mdf
+c:\users\100\documents\visual studio 2010\Projects\Kladionica\Kladionica\bin\Debug\Kladionica_DB_log.ldf
+c:\users\100\documents\visual studio 2010\Projects\Kladionica\Kladionica\bin\Debug\Kladionica.exe.config
+c:\users\100\documents\visual studio 2010\Projects\Kladionica\Kladionica\bin\Debug\Kladionica.exe
+c:\users\100\documents\visual studio 2010\Projects\Kladionica\Kladionica\bin\Debug\Kladionica.pdb
+c:\users\100\documents\visual studio 2010\Projects\Kladionica\Kladionica\obj\x86\Debug\Kladionica.Form1.resources
+c:\users\100\documents\visual studio 2010\Projects\Kladionica\Kladionica\obj\x86\Debug\Kladionica.Properties.Resources.resources
+c:\users\100\documents\visual studio 2010\Projects\Kladionica\Kladionica\obj\x86\Debug\Kladionica.csproj.GenerateResource.Cache
+c:\users\100\documents\visual studio 2010\Projects\Kladionica\Kladionica\obj\x86\Debug\Kladionica.exe
+c:\users\100\documents\visual studio 2010\Projects\Kladionica\Kladionica\obj\x86\Debug\Kladionica.pdb
+C:\Users\100\documents\visual studio 2010\Projects\Kladionica\Kladionica\obj\x86\Debug\Kladionica.csprojResolveAssemblyReference.cache

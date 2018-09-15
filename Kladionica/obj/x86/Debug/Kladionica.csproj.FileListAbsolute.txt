@@ -1,0 +1,12 @@
+C:\Users\100\documents\visual studio 2010\Projects\Kladionica\Kladionica\bin\Debug\Kladionica.exe.config
+C:\Users\100\documents\visual studio 2010\Projects\Kladionica\Kladionica\bin\Debug\Kladionica.exe
+C:\Users\100\documents\visual studio 2010\Projects\Kladionica\Kladionica\bin\Debug\Kladionica.pdb
+C:\Users\100\documents\visual studio 2010\Projects\Kladionica\Kladionica\obj\x86\Debug\Kladionica.frmPocetna.resources
+C:\Users\100\documents\visual studio 2010\Projects\Kladionica\Kladionica\obj\x86\Debug\Kladionica.Forms.frmListici.resources
+C:\Users\100\documents\visual studio 2010\Projects\Kladionica\Kladionica\obj\x86\Debug\Kladionica.Forms.frmPodaciIzabranogListica.resources
+C:\Users\100\documents\visual studio 2010\Projects\Kladionica\Kladionica\obj\x86\Debug\Kladionica.Forms.frmRezultatiListica.resources
+C:\Users\100\documents\visual studio 2010\Projects\Kladionica\Kladionica\obj\x86\Debug\Kladionica.Properties.Resources.resources
+C:\Users\100\documents\visual studio 2010\Projects\Kladionica\Kladionica\obj\x86\Debug\Kladionica.csproj.GenerateResource.Cache
+C:\Users\100\documents\visual studio 2010\Projects\Kladionica\Kladionica\obj\x86\Debug\Kladionica.exe
+C:\Users\100\documents\visual studio 2010\Projects\Kladionica\Kladionica\obj\x86\Debug\Kladionica.pdb
+C:\Users\100\documents\visual studio 2010\Projects\Kladionica\Kladionica\obj\x86\Debug\Kladionica.csprojResolveAssemblyReference.cache
